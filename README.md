@@ -6,7 +6,7 @@
 - JPA
 - H2 database : http://localhost:8080/h2-console
 - IDE : Intelli J
-- server : Apache Tomcat9
+- server : Apache Tomcat
 - *Postman* : 설치하여 API 간편하게 요청하였습니다
 - Swagger : http://localhost:8080/swagger-ui/index.html#/
 > eclipse에서 테스트 진행해봤을 때 Lombok이 적용되지 않는 문제가 있었습니다 
