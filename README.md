@@ -14,6 +14,8 @@
 ---
 ### 2. 테이블 생성 SQL
 #### 주의 ❗ JPA를 사용하여 점포 추가 API 시 자동으로 테이블이 생성됩니다 > API 사용 시 점포추가 먼저 진행
+
+#### 테이블 생성 시
 1. Goods
 
 ![image](https://user-images.githubusercontent.com/53583470/131659677-a33df7f7-db26-425f-9d26-bfcb36cf911e.png)
