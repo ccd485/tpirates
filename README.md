@@ -24,13 +24,13 @@
 
 ![image](https://user-images.githubusercontent.com/53583470/131661794-7dbb9aae-0987-42c5-ae73-3070167913d3.png)
 
-> H2 console 로그인
+> H2 console 로그인 http://localhost:8080/h2-console
 
 ![image](https://user-images.githubusercontent.com/53583470/131662177-2c19740b-b5cc-41bc-b5f7-03b3321f8750.png)
 
 ---
 ### 3. API 사용가이드
-#### Swagger 사용하였습니다.
+#### Swagger 사용하였습니다. http://localhost:8080/swagger-ui/index.html#/
 ![image](https://user-images.githubusercontent.com/53583470/131661236-c8739d8a-f576-4a8f-a240-6bd1bf9f5d00.png)
 
 > Postman 사용 모습( 점포 추가 요청 파라미터 )
