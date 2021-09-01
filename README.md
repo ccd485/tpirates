@@ -1,12 +1,13 @@
 # tpirates
 ### 1. 설치 및 환경설정 가이드
+#### Dependencies이외의 따로 설치할건 없습니다 (POSTMAN 제외) 
 - Spring Boot
 - Maven
 - JPA
 - H2 database : http://localhost:8080/h2-console
 - IDE : Intelli J
 - server : Apache Tomcat9
-- Postman : 설치하여 API 간편하게 요청하였습니다.
+- *Postman* : 설치하여 API 간편하게 요청하였습니다
 - Swagger : http://localhost:8080/swagger-ui/index.html#/
 > eclipse에서 구동해보았을 때 Lombok이 적용되지않아 혹시 Getter/Setter 메소드가 실행하지않는다면 따로 생성해줘야합니다.
 ---
