@@ -9,7 +9,8 @@
 - server : Apache Tomcat9
 - *Postman* : 설치하여 API 간편하게 요청하였습니다
 - Swagger : http://localhost:8080/swagger-ui/index.html#/
-> eclipse에서 Lombok이 적용되지 않는 문제가 있었습니다 혹시 Getter/Setter 메소드, constructor가 실행되지않는다면 따로 생성해줘야합니다.
+> eclipse에서 Lombok이 적용되지 않는 문제가 있었습니다 
+혹시 Getter/Setter 메소드, constructor가 실행되지않는다면 따로 생성해줘야합니다.
 ---
 ### 2. 테이블 생성 SQL
 #### 주의 ❗ JPA를 사용하여 점포 추가 API 시 자동으로 테이블이 생성됩니다 > API 사용 시 점포추가 먼저 진행
